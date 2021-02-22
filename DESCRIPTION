@@ -16,3 +16,5 @@ Imports:
     broom,
     dplyr,
     magrittr
+URL: https://github.com/jakepscott/JSPack
+BugReports: https://github.com/jakepscott/JSPack/issues
